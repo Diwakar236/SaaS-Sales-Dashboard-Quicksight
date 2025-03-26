@@ -1,4 +1,6 @@
 # SaaS Sales Dashboard with Amazon QuickSight
+![image](https://github.com/user-attachments/assets/1b89d79f-795b-40b2-bc0a-bce8f7f7e1d5)
+
 
 This project is a business intelligence case study built with Amazon QuickSight.  
 The goal was to visualize SaaS product sales across time, industry, and geography, and to demonstrate interactive insights using Q&A (QuickSight Q).
