@@ -7,7 +7,7 @@ The goal was to visualize SaaS product sales across time, industry, and geograph
 - AWS QuickSight
 - Q&A Natural Language Visual Builder
 - Executive Summary Feature
-- Sankey + GeoMap Visualizations
+- GeoMap Visualizations
 
 ## 📈 Key Features
 - Time-series sales trend visualization
