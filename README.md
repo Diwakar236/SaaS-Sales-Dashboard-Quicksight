@@ -15,7 +15,6 @@ The goal was to visualize SaaS product sales across time, industry, and geograph
 - Time-series sales trend visualization
 - Donut chart by industry
 - Geo-map of country-level sales
-- Sankey diagram showing sales flow by segment
 - Q&A panel for customer/product insights
 - Auto-generated executive summary panel
 
